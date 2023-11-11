@@ -1,16 +1,24 @@
-### Hi there 👋
+![Passionate on Web Developing](https://scontent.fdac138-2.fna.fbcdn.net/v/t1.6435-9/43305505_10217137502739827_4258554314156408832_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeGsdGp8Fe67oZc-MqGc4hSYoj_RK4JVHFyiP9ErglUcXHX8GWsxAsPwvmZD_bSm_dQ&_nc_ohc=NQMaOvZiynEAX99nB4k&_nc_ht=scontent.fdac138-2.fna&oh=00_AfDgivEQgg3RvvKEbpJDrfniEvB57DDhX1kUKjuuLMB1AQ&oe=65773F1D)
+## Hi there 👋, My name is Rakibul Hasan
+#### Passionate on Web Developing
+A grade Pharmacist, licensed from Bangladesh Pharmacy Council. Completed my Master's in Pharmaceutical technology from University of Asia Pacific.
+Learning Python Django based web developing from Aiquest Intelligence. Certified on Basic Python Programming language from Stanford University, California and certified on Microsoft Office Program and Google Sheet from Tanvir Academy, Bangladesh from online based course.
 
-<!--
-**aristoxcel/aristoxcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS/JS/Django/Python/Excel/Google Sheet
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Web Developing 
+- 👯 I’m looking to collaborate on Web Developer 
+- 💬 Ask me about Django based web developing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aristoxcel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aristoxcel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/goldenboyrakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@RakibHasan-mx7dm)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoxcel)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoxcel&show_icons=true)  
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

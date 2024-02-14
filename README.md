@@ -1,4 +1,4 @@
-![Passionate on Web Developing](https://scontent.fdac138-2.fna.fbcdn.net/v/t1.6435-9/43305505_10217137502739827_4258554314156408832_n.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeGsdGp8Fe67oZc-MqGc4hSYoj_RK4JVHFyiP9ErglUcXHX8GWsxAsPwvmZD_bSm_dQ&_nc_ohc=NQMaOvZiynEAX99nB4k&_nc_ht=scontent.fdac138-2.fna&oh=00_AfDgivEQgg3RvvKEbpJDrfniEvB57DDhX1kUKjuuLMB1AQ&oe=65773F1D)
+
 ## Hi there 👋, My name is Rakibul Hasan
 #### Passionate on Web Developing
 A grade Pharmacist, licensed from Bangladesh Pharmacy Council. Completed my Master's in Pharmaceutical technology from University of Asia Pacific.

@@ -9,9 +9,9 @@ Learning Next.js web developing from Programming Hero, Certified Jr. Web Develop
 - 💬 Ask me about Javascript based web developing 
 - 💬 Ask me about Django based web developing
   
-##Skills:
+#### Skills:
 
-#Frontend:
+# Frontend:
 -React.js
 -Javascript
 -Tailwind.css
@@ -19,7 +19,7 @@ Learning Next.js web developing from Programming Hero, Certified Jr. Web Develop
 -CSS
 -HTML
 
-#Backend:
+# Backend:
 -Django(Python)
 -Next.js
 -Express.js
@@ -27,17 +27,17 @@ Learning Next.js web developing from Programming Hero, Certified Jr. Web Develop
 -Firebase
 -JWT
 
-#Deploy
+# Deploy
 -Firebase
 -Vercel
 -Netlify
 -Surge
 
-#Microsoft
+# Microsoft
 -Excel
 -Google Sheet
 
-#Others
+# Others
 -Git
 -Github
 -Figma

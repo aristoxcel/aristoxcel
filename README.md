@@ -1,16 +1,47 @@
 
 ## Hi there 👋, My name is Rakibul Hasan
 #### Passionate on Web Developing
-A grade Pharmacist, licensed from Bangladesh Pharmacy Council. Completed my Master's in Pharmaceutical technology from University of Asia Pacific.
-Learning Python Django based web developing from Aiquest Intelligence. Certified on Basic Python Programming language from Stanford University, California and certified on Microsoft Office Program and Google Sheet from Tanvir Academy, Bangladesh from online based course.
+Junior Web Developer and A grade Pharmacist, licensed from Bangladesh Pharmacy Council. Completed my Master's in Pharmaceutical technology from University of Asia Pacific.
+Learning Next.js web developing from Programming Hero, Certified Jr. Web Developer on React, Javascript, CSS, Html from Programming Hero. Certified Django Web Developer from  Aiquest Intelligence. Certified on Basic Python Programming language from Stanford University, California and certified on Microsoft Office Program and Google Sheet from Tanvir Academy, Bangladesh from online based course.
+- 🔭 I’m Junior Web Developer (React & Django). 
+- 🌱 I’m learning Web Developing and it will be continued.
+- 👯 I’m looking for Remote Job.
+- 💬 Ask me about Javascript based web developing 
+- 💬 Ask me about Django based web developing
+  
+##Skills:
 
-Skills: HTML / CSS/JS/Django/Python/Excel/Google Sheet
+#Frontend:
+-React.js
+-Javascript
+-Tailwind.css
+-Bootstrap 
+-CSS
+-HTML
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Web Developing 
-- 👯 I’m looking to collaborate on Web Developer 
-- 💬 Ask me about Django based web developing 
+#Backend:
+-Django(Python)
+-Next.js
+-Express.js
+-Mongodb
+-Firebase
+-JWT
 
+#Deploy
+-Firebase
+-Vercel
+-Netlify
+-Surge
+
+#Microsoft
+-Excel
+-Google Sheet
+
+#Others
+-Git
+-Github
+-Figma
+-Imagebb
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aristoxcel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aristoxcel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/goldenboyrakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@RakibHasan-mx7dm)  
 

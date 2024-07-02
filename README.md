@@ -15,47 +15,16 @@ Learning Next.js web developing from Programming Hero, Certified Jr. Web Develop
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoxcel)](https://github.com/anuraghazra/github-readme-stats)
 ---
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html, css, bootstrap, tailwind, js, py" />
+    <img src="https://skillicons.dev/icons?i=react, nextjs, express, django, mongodb, firebase" />
+    <img src="https://skillicons.dev/icons?i=vscode, pycharm, figma" />
   </a>
 </p>
 ---
 
-#### Skills:
-
-### Frontend:
-- React.js
-- Javascript
-- Tailwind.css
-- Bootstrap 
-- CSS
-- HTML
-
-### Backend:
-- Django(Python)
-- Next.js
-- Express.js
-- Mongodb
-- Firebase
-- JWT
-
-### Deploy
-- Firebase
-- Vercel
-- Netlify
-- Surge
-
-### Microsoft
-- Excel
-- Google Sheet
-
-### Others
-- Git
-- Github
-- Figma
-- Imagebb
----
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aristoxcel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aristoxcel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/goldenboyrakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@RakibHasan-mx7dm)  
 ---
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 

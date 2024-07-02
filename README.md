@@ -15,12 +15,20 @@ Learning Next.js web developing from Programming Hero, Certified Jr. Web Develop
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoxcel)](https://github.com/anuraghazra/github-readme-stats)
 ---
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,py" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,django,mongodb,firebase" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,express,django,mongodb,firebase" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma" />
   </a>
 </p>
 ---

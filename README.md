@@ -18,9 +18,9 @@ Learning Next.js web developing from Programming Hero, Certified Jr. Web Develop
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, bootstrap, tailwind, js, py" />
-    <img src="https://skillicons.dev/icons?i=react, nextjs, express, django, mongodb, firebase" />
-    <img src="https://skillicons.dev/icons?i=vscode, pycharm, figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,py" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,django,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma" />
   </a>
 </p>
 ---

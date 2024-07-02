@@ -14,7 +14,13 @@ Learning Next.js web developing from Programming Hero, Certified Jr. Web Develop
   #### GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoxcel)](https://github.com/anuraghazra/github-readme-stats)
-___
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+---
 
 #### Skills:
 

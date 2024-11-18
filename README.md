@@ -2,13 +2,13 @@
 ![Header](./github-header-image.png)
 #### Overview
 ---
-Junior Web Developer and A grade Pharmacist, licensed from Bangladesh Pharmacy Council. Completed my Master's in Pharmaceutical technology from University of Asia Pacific.
-Learning Next.js web developing from Programming Hero, Certified Jr. Web Developer on React, Javascript, CSS, Html from Programming Hero. Certified Django Web Developer from  Aiquest Intelligence. Certified on Basic Python Programming language from Stanford University, California and certified on Microsoft Office Program and Google Sheet from Tanvir Academy, Bangladesh from online based course.
-- 🔭 I’m Junior Web Developer (React & Django). 
-- 🌱 I’m learning Web Developing and it will be continued.
-- 👯 I’m looking for Remote Job.
-- 💬 Ask me about Javascript based web developing 
-- 💬 Ask me about Django based web developing
+👨‍💻 Web Developer | Full-Stack Enthusiast
+🌟 Proficient in React.js, Next.js, MongoDB, PostgreSQL, Python Django etc.
+👯 Certified Django Web Developer from  Aiquest Intelligence. Certified on Basic Python Programming language from Stanford University, California and certified on Microsoft Office Program and Google Sheet from Tanvir Academy, Bangladesh.
+Note: A grade Pharmacist, licensed from Bangladesh Pharmacy Council. Completed my Master's in Pharmaceutical technology from University of Asia Pacific.
+💻 Passionate about building scalable web applications and crafting innovative solutions.
+✨ Dreaming big to make a positive impact in society through technology.
+- 💬 Feel free to contact with to build your dream website.
 ***
 
   #### GitHub Stats:

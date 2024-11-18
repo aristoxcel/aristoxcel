@@ -3,11 +3,11 @@
 #### Overview
 ---
 👨‍💻 Web Developer | Full-Stack Enthusiast
-🌟 Proficient in React.js, Next.js, MongoDB, PostgreSQL, Python Django etc.
-👯 Certified Django Web Developer from  Aiquest Intelligence. Certified on Basic Python Programming language from Stanford University, California and certified on Microsoft Office Program and Google Sheet from Tanvir Academy, Bangladesh.
-Note: A grade Pharmacist, licensed from Bangladesh Pharmacy Council. Completed my Master's in Pharmaceutical technology from University of Asia Pacific.
-💻 Passionate about building scalable web applications and crafting innovative solutions.
-✨ Dreaming big to make a positive impact in society through technology.
+- 🌟 Proficient in React.js, Next.js, MongoDB, PostgreSQL, Python Django etc.
+- 👯 Certified on Python Programming language from Stanford University, California . Certified Django Web Developer from  Aiquest Intelligence and certified on Microsoft Office Program and Google Sheet from Tanvir Academy, Bangladesh.
+- Note: A grade Pharmacist, licensed from Bangladesh Pharmacy Council. Completed my Master's in Pharmaceutical technology from University of Asia Pacific.
+- 💻 Passionate about building scalable web applications and crafting innovative solutions.
+- ✨ Dreaming big to make a positive impact in society through technology.
 - 💬 Feel free to contact with to build your dream website.
 ***
 
